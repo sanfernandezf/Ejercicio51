@@ -1,0 +1,14 @@
+artifact_uri: file:///content/SP500/Ejercicio51/mlruns/204138520857878839/46235696fc96460697096700d4bb7d59/artifacts
+end_time: 1753905277241
+entry_point_name: ''
+experiment_id: '204138520857878839'
+lifecycle_stage: active
+run_id: 46235696fc96460697096700d4bb7d59
+run_name: wistful-fox-81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753905251493
+status: 3
+tags: []
+user_id: root

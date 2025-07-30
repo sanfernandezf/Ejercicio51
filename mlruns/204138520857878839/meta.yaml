@@ -1,0 +1,6 @@
+artifact_location: file:///content/SP500/Ejercicio51/mlruns/204138520857878839
+creation_time: 1753905250953
+experiment_id: '204138520857878839'
+last_update_time: 1753905250953
+lifecycle_stage: active
+name: sentimiento
